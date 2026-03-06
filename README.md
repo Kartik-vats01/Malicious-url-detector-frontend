@@ -9,3 +9,5 @@ In this project we will use 4 ML models -
 2. Random Forest Classifier
 3. SVM
 4. LR
+
+The Risk score will be generated on the basis of ml model outputs and accuracy.
