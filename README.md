@@ -11,4 +11,5 @@ In this project we will use 4 ML models -
 4. LR
 5. Decision Tree
 The Risk score will be generated on the basis of ml model outputs and accuracy.
+<br>
 Well this repo ends as in this repo i only pushed the code for frontend and the full project code is in collaborative repo with my Project team...
