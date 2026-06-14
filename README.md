@@ -2,8 +2,8 @@
 
 A PWA for malicious website detection using ML.
 <br>
-Will use Hybrid ML to test which ml model has the high accuracy.
-In this project we will use 4 ML models -
+Uses Hybrid ML to test which ml model has the high accuracy.
+In this project we will use 5 ML models -
 <br>
 1. XGBoost
 2. Random Forest Classifier
@@ -12,4 +12,6 @@ In this project we will use 4 ML models -
 5. Decision Tree
 The Risk score will be generated on the basis of ml model outputs and accuracy.
 <br>
-Well this repo ends as in this repo i only pushed the code for frontend and the full project code is in collaborative repo with my Project team...
+```
+Consist of only Frontend code .
+```
